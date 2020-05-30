@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <style type="text/css">
+
+        body {
+            background-color:rgb(194, 194, 248);
+            border: 3px solid #000;
+        }
+
+        h3 {
+            text-align: center;
+            padding: 50px;
+            font-size: 20px;
+        }
+
+        h4 {
+            text-indent:20px;
+            font-size: 17px;
+        }
+
+        p {
+            text-indent: 20px;
+            font-size: 17px;
+        }
+
+        li {
+            text-indent: 40px;
+            font-size: 17px;
+        }
+
+        h5 {
+            text-align: center;
+            font-size: 30px;
+        }
+
+    </style>
+
+
+    <title>Notificação</title>
+</head>
+    <body>
+
+
+        <h3>Luiz Alves, 27 de maio de 2020.</h3>
+
+
+        <h4>Prezado.</h4>
+        <br>
+
+        <p> A certificação de metodologias que nos auxiliam a lidar com a percepção das dificuldades não pode mais se dissociar dos conhecimentos estratégicos para atingir a excelência. Por conseguinte, a mobilidade dos capitais internacionais representa uma abertura para a melhoria das direções preferenciais no sentido do progresso. Percebemos, cada vez mais, que 
+            a determinação clara de objetivos apresenta tendências no sentido de aprovar a manutenção dos índices pretendidos.</p>
+        <br>
+
+        <h5>Lero Lero.</h5><br><br>
+
+
+    </body>
+</html>
